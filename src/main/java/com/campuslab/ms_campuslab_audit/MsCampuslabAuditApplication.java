@@ -1,4 +1,4 @@
-package campuslab.ms_campuslab_audit;
+package com.campuslab.ms_campuslab_audit;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
