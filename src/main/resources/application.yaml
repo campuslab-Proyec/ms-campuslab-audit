@@ -26,4 +26,4 @@ spring:
     oauth2:
       resourceserver:
         jwt:
-          issuer-uri: https://login.microsoftonline.com/<TENANT_ID>/v2.0V1__create_audit_events_table
+          issuer-uri: https://login.microsoftonline.com/${AZURE_TENANT_ID:aff2eb38-d6cf-4220-8527-53f1cb6aed15}/v2.0
